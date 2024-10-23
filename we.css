@@ -1,0 +1,32 @@
+
+h1{text-align: center;}
+section{
+
+display: flex;
+justify-content: space-between;
+}
+a{text-decoration: none;
+color: rgb(36, 90, 148);
+
+
+
+}
+
+button{background-color: rgb(20, 62, 113);
+
+padding: 5px;
+border-radius: 10px;
+color: white;
+}
+.area{
+display: flex;
+width: 100%;
+
+gap: 0px;
+}
+.area * {
+
+    margin: 0px;
+padding: 20px;
+}
+.qq{border-radius: 10px;}
